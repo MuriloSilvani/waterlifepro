@@ -1,5 +1,5 @@
-import 'package:daily_record/controllers/login_controller.dart';
-import 'package:daily_record/controllers/register_controller.dart';
+import 'package:waterlife_pro/controllers/login_controller.dart';
+import 'package:waterlife_pro/controllers/register_controller.dart';
 import 'package:flutter/material.dart';
 
 class RegisterPage extends StatelessWidget {

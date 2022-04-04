@@ -1,9 +1,9 @@
-import 'package:daily_record/pages/home_page.dart';
-import 'package:daily_record/pages/login_page.dart';
-import 'package:daily_record/pages/register_page.dart';
+import 'package:waterlife_pro/pages/home_page.dart';
+import 'package:waterlife_pro/pages/login_page.dart';
+import 'package:waterlife_pro/pages/register_page.dart';
 import 'package:flutter/material.dart';
-import 'package:daily_record/controllers/theme_controller.dart';
-import 'package:daily_record/pages/main_page.dart';
+import 'package:waterlife_pro/controllers/theme_controller.dart';
+import 'package:waterlife_pro/pages/main_page.dart';
 
 void main() {
   runApp(const MyApp());

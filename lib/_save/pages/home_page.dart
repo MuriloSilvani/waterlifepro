@@ -1,4 +1,4 @@
-import 'package:daily_record/controllers/login_controller.dart';
+import 'package:waterlife_pro/controllers/login_controller.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {

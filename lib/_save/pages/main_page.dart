@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:daily_record/controllers/theme_controller.dart';
+import 'package:waterlife_pro/controllers/theme_controller.dart';
 
 class MainPage extends StatelessWidget {
   const MainPage({Key? key}) : super(key: key);
